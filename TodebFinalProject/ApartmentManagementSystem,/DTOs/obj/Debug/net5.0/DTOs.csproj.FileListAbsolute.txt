@@ -1,0 +1,17 @@
+C:\Users\musau\Desktop\TodebFinalProject\ApartmentManagementSystem,\DTOs\obj\Debug\net5.0\DTOs.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\TodebFinalProject\ApartmentManagementSystem,\DTOs\obj\Debug\net5.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musau\Desktop\TodebFinalProject\ApartmentManagementSystem,\DTOs\obj\Debug\net5.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\musau\Desktop\TodebFinalProject\ApartmentManagementSystem,\DTOs\obj\Debug\net5.0\DTOs.AssemblyInfo.cs
+C:\Users\musau\Desktop\TodebFinalProject\ApartmentManagementSystem,\DTOs\obj\Debug\net5.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\TodebFinalProject\ApartmentManagementSystem,\DTOs\bin\Debug\net5.0\DTOs.deps.json
+C:\Users\musau\Desktop\TodebFinalProject\ApartmentManagementSystem,\DTOs\bin\Debug\net5.0\DTOs.dll
+C:\Users\musau\Desktop\TodebFinalProject\ApartmentManagementSystem,\DTOs\bin\Debug\net5.0\DTOs.pdb
+C:\Users\musau\Desktop\TodebFinalProject\ApartmentManagementSystem,\DTOs\bin\Debug\net5.0\Core.dll
+C:\Users\musau\Desktop\TodebFinalProject\ApartmentManagementSystem,\DTOs\bin\Debug\net5.0\Entities.dll
+C:\Users\musau\Desktop\TodebFinalProject\ApartmentManagementSystem,\DTOs\bin\Debug\net5.0\Core.pdb
+C:\Users\musau\Desktop\TodebFinalProject\ApartmentManagementSystem,\DTOs\bin\Debug\net5.0\Entities.pdb
+C:\Users\musau\Desktop\TodebFinalProject\ApartmentManagementSystem,\DTOs\obj\Debug\net5.0\DTOs.csproj.CopyComplete
+C:\Users\musau\Desktop\TodebFinalProject\ApartmentManagementSystem,\DTOs\obj\Debug\net5.0\DTOs.dll
+C:\Users\musau\Desktop\TodebFinalProject\ApartmentManagementSystem,\DTOs\obj\Debug\net5.0\refint\DTOs.dll
+C:\Users\musau\Desktop\TodebFinalProject\ApartmentManagementSystem,\DTOs\obj\Debug\net5.0\DTOs.pdb
+C:\Users\musau\Desktop\TodebFinalProject\ApartmentManagementSystem,\DTOs\obj\Debug\net5.0\ref\DTOs.dll
